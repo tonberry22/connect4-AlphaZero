@@ -1,5 +1,5 @@
 # connect4-AlphaZero
-Connect 4 trained using MCTS + Deep Learning (AlphaGo Zero style)
+Connect 4 trained using MCTS + Deep Learning (AlphaGo Zero style), learning via pure self-play without feature engineering or expert input
 
 Based on David Foster's code and model (https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning)
 
