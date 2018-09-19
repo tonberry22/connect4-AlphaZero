@@ -5,4 +5,4 @@ Based on David Foster's code and model (https://github.com/AppliedDataSciencePar
 
 Trained and tested under Windows 7 and Python 3.6
 
-Feel free to clone and play a few games against the trained models using the run.ipynb!
+Feel free to clone and play a few games against the trained models (in the folder run0001, trained over 4 days using 1 Nvidia 1050 GPU) using the run.ipynb!
